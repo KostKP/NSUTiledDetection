@@ -1,5 +1,9 @@
-torch>=1.7
-opencv-python
-numpy
+torch>=1.8.0
+opencv-python>=4.1.1
+numpy>=1.23.5
 argparse
 pathlib
+pandas>=1.1.4
+requests>=2.32.2
+pillow>=10.3.0
+seaborn>=0.11.0
